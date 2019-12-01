@@ -11,7 +11,8 @@ import './css/app.css'
 
 // 导入 MUI 的样式表， 和 Bootstrap 用法没有差别
 import './lib/mui/css/mui.min.css'
-
+import './lib/mui//css/icons-extra.css'
+import './lib/mui/fonts/mui-icons-extra.ttf'
 
 // 导入所有的 MIntUI 组件
 // 导入 Mint-UI
